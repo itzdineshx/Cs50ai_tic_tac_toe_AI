@@ -22,7 +22,10 @@ Experience the game in action: [Tic Tac Toe with AI](https://itzdineshx.github.i
 
 ### Minimax Algorithm
 The **Minimax algorithm** is a backtracking algorithm used in decision-making and game theory. It assumes that the opponent is also playing optimally, so it evaluates all possible game moves and chooses the one with the best possible outcome. This project showcases how the algorithm can be applied to a classic game like Tic Tac Toe, ensuring that the AI is an unbeatable opponent.
-![image](https://github.com/user-attachments/assets/998f451b-c0f9-4734-beaf-36acea8b61e1)
+
+
+![image](https://github.com/user-attachments/assets/37aaf5d5-cf1c-450f-8887-efc9e43dac28)
+
 
 ## 🖥️ Technologies Used
 - **HTML5**: Provides the structure for the game and web page.
