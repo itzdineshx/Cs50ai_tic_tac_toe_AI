@@ -2,7 +2,8 @@
 
 Welcome to my **Tic Tac Toe with AI** project! This is my first project for the **CS50 AI** course, where I developed a web-based Tic Tac Toe game with an AI opponent. The AI uses the **Minimax algorithm** to make decisions, ensuring an unbeatable challenge. This project helped me understand the application of search algorithms and decision-making models in game development.
 
-![Tic Tac Toe](https://itzdineshx.github.io/Cs50ai_tic_tac_toe_AI/preview.png)
+![Tic Tac Toe](![image](https://github.com/user-attachments/assets/81785b57-62f6-476c-902c-fad332b15b93)
+)
 
 ## 🎮 Live Demo
 Experience the game in action: [Tic Tac Toe with AI](https://itzdineshx.github.io/Cs50ai_tic_tac_toe_AI/)
